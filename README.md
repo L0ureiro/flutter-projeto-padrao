@@ -46,3 +46,14 @@ flutter_app_padrao
 
 [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BzSeQnfvvR%2BG9yaPB14zn6w%3D%3D)
 
+## License
+
+[BSD3](LICENSE)
+
+## Contribuidores
+
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Lucas Loureiro</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Alan De Castro</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+
