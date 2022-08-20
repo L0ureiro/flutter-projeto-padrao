@@ -54,6 +54,5 @@ flutter_app_padrao
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Lucas Loureiro</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Alan De Castro</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
-
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91619655?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Loureiro</b></sub></a><br />Lucas Loureiro</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/44855332?v=4" width="100px;" alt=""/><br /><sub><b>Alan De Castro</b></sub></a><br />Alan De Castro</a></td>
